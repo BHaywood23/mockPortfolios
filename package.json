@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/MrSankofa/mockPortfolios#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "live-server": "^1.2.1",
-    "nodemon": "^2.0.2"
+    "live-server": "^1.2.1"
   }
 }
